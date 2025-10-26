@@ -1,4 +1,4 @@
-# 💾 How to Use — *Bring Back 90s Wikipedia!*
+# 💾 Bring Back 90s Wikipedia!
 
 ![Retro Wikipedia Screenshot](https://i.postimg.cc/3rjVZgmt/Screenshot.png)
 
@@ -6,37 +6,73 @@
 
 ## 🚀 Step-by-Step Guide
 
-1. **Install Tampermonkey**  
-   ➤ Available for Chrome, Firefox, Edge, and other browsers.  
-   [Tampermonkey Official Website](https://www.tampermonkey.net/)
+### 1️⃣ Install a Userscript Manager
 
-2. **Create a New Script**  
-   ➤ Click the **Tampermonkey icon** → **Create a new script**.
+To run the script, you’ll need a **userscript manager**.  
+You can pick **any** of these (they all work great):
 
-3. **Paste the Code**  
-   ➤ Replace the default text with the full retro script code provided.
-
-4. **Save It**  
-   ➤ Hit **Ctrl + S** *(or Cmd + S on Mac)* to save.
-
-5. **Open Any Wikipedia Page**  
-   ➤ Boom 💥 — you’re back in the **glorious 90s**!
+| 🧰 Name | 🔗 Link | 🧩 Type | 💬 Notes |
+|:--|:--|:--|:--|
+| **Tampermonkey** | [tampermonkey.net](https://www.tampermonkey.net/) | Free (Proprietary) | Most popular, easy to use |
+| **Violentmonkey** | [violentmonkey.github.io](https://violentmonkey.github.io/) | ✅ FOSS | Lightweight, privacy-friendly |
+| **Greasemonkey** | [addons.mozilla.org/firefox/addon/greasemonkey/](https://addons.mozilla.org/firefox/addon/greasemonkey/) | ✅ FOSS | Firefox-only classic choice |
 
 ---
 
-## 🎨 What It Does
-Transforms your modern Wikipedia into a nostalgic, old-school version —  
-think **retro fonts**, **vintage layouts**, and a sweet dose of **90s internet vibes**.
+### 2️⃣ Create a New Script
+
+- Open your chosen userscript manager.  
+- Click **“Create a new script”**.
 
 ---
 
-## 🧠 Tip
-If it doesn’t activate:
-- Make sure the script is **enabled** in Tampermonkey.
-- Refresh the Wikipedia page.
-- Double-check for browser security restrictions.
+### 3️⃣ Paste the Code
+
+- Delete any pre-filled content.  
+- Paste in the full **Retro Wikipedia Script** you have.
 
 ---
 
-**Enjoy the nostalgia! 🕹️**  
-Made for 90s web lovers 💚
+### 4️⃣ Save It
+
+- Hit **Ctrl + S** *(or Cmd + S on Mac)*.  
+- Make sure the script is **enabled**.
+
+---
+
+### 5️⃣ Open Wikipedia
+
+Head to **any Wikipedia page** and…  
+💥 **BOOM — Welcome to the 90s!**
+
+Expect pixel vibes, boxy layouts, and old-school charm.  
+
+---
+
+## 🎨 Features
+
+- 🖥️ Retro 90s web styling  
+- 🧩 Works across all modern browsers  
+- 🕹️ Lightweight — no trackers, no bloat  
+- 💾 Fully customizable if you want to tweak the look
+
+---
+
+## 🧠 Troubleshooting
+
+If it’s not working:
+- Ensure the script is **enabled**.  
+- **Reload** the Wikipedia page.  
+- Try a different userscript manager (e.g., Violentmonkey).  
+- Check your browser’s **extension permissions**.
+
+---
+
+## 💡 Pro Tip
+You can edit the script’s CSS to create your own retro themes —  
+like **Windows 98**, **GeoCities**, or **early Yahoo!** styles!
+
+---
+
+**Made with ❤️ for the nostalgic souls.**  
+Enjoy surfing the old web again 🌐✨
